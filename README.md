@@ -3,7 +3,7 @@
 **The most agentic blockchain code model ever released.**  
 Purpose-built for smart contract engineering, dApp workflows, DeFi, zk, and Web3 infrastructure — with long-context, 358-language support, and full agentic capabilities.
 
----<img width="1536" height="1024" alt="blocky-benchmark" src="https://github.com/user-attachments/assets/2331ce65-0981-4ade-ba0a-3c3c863b1e12" />
+<img width="1536" height="1024" alt="blocky-benchmark" src="https://github.com/user-attachments/assets/2331ce65-0981-4ade-ba0a-3c3c863b1e12" />
 
 
 ## ✨ Overview
