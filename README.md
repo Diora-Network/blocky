@@ -99,7 +99,7 @@ Blocky-Diora-420B pushes pretraining boundaries to improve reasoning, code execu
 
 ```bash
 # Install Blocky CLI (agent wrapper for code workflows)
-git clone https://github.com/blocky-ai/blocky-cli
+git clone https://github.com/diora-network/blocky/blocky-cli
 cd blocky-cli
 npm install
 blocky init
